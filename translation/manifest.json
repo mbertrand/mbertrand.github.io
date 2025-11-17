@@ -1,0 +1,37 @@
+{
+  "videos": [
+    {
+      "id": "L2.1.HAIM_Holistic_AI_for_Medicine",
+      "title": "L2.1 HAIM: Holistic AI for Medicine",
+      "youtubeId": "VAT44R63jOU",
+      "methods": ["gpt-4o-mini", "deep-l", "gpt-5"],
+      "languages": {
+        "gpt-4o-mini": ["en", "ar", "de", "es", "fr", "hi", "kr", "pt", "zh"],
+        "deep-l": [],
+        "gpt-5": []
+      }
+    },
+    {
+      "id": "L3.1.StatististicsAndUnderstandingDistributions",
+      "title": "L3.1 Statistics and Understanding Distributions",
+      "youtubeId": "Vvt9y9FBuOk",
+      "methods": ["gpt-4o-mini", "deep-l", "gpt-5"],
+      "languages": {
+        "gpt-4o-mini": ["en", "ar", "de", "es", "fr", "hi", "kr", "pt", "zh"],
+        "deep-l": [],
+        "gpt-5": []
+      }
+    }
+  ],
+  "languageNames": {
+    "en": "English",
+    "ar": "Arabic",
+    "de": "German",
+    "es": "Spanish",
+    "fr": "French",
+    "hi": "Hindi",
+    "kr": "Korean",
+    "pt": "Portuguese",
+    "zh": "Chinese"
+  }
+}
